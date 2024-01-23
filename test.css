@@ -1,0 +1,32 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+    color: white;
+  }
+
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+  background-color: gray;
+}
+
+.left {
+    float: left;
+    height: 500px;
+    background-color: lightgrey;
+    width: 25%;
+    text-align: center;
+  }
+
+  .sidebar {
+    text-align: left;
+    padding: 50px;
+  }
+
+  .right {
+    float: left;
+    background-color: lightgrey;
+    height: 500px;
+    width: 75%;
+    text-align: center;
+  }
